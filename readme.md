@@ -6,7 +6,7 @@ Responsável: Hedgar Alves da Silva
 
 ## Introdução
 
-Este relatório apresenta o processo de implementação dee ferramentas na empresa ABSTERGO INDUSTRIES, realizado por HEDGAR ALVES DA SILVA. O objetivo do projeto foi elencar 3 serviços da AWS com a finalizade de realizar a diminuição de custos imediatos.
+Este relatório apresenta o processo de implementação de ferramentas na empresa ABSTERGO INDUSTRIES, realizado por HEDGAR ALVES DA SILVA. O objetivo do projeto foi elencar 3 serviços da AWS com a finalizade de realizar a diminuição de custos imediatos.
 
 ## Descrição do Projeto
 
